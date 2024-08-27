@@ -10,6 +10,7 @@ Everyone can create their own travel profile to customize their trips. The trave
 
 
 Then you can start searching for your next stop. Once you have found a suitable campground, you can save it and start navigating with one click.
+
 ![image](https://github.com/user-attachments/assets/08253a51-2605-4888-942b-edc004e792e3)
 
 
