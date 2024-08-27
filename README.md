@@ -18,7 +18,8 @@ If the weather deteriorates, you will be notified in time to choose an alternati
 ![image](https://github.com/user-attachments/assets/d2fa3ae2-883e-4322-b23a-fc6c99677050)
 
 
-The prototype can be fully watched here: https://www.figma.com/proto/6eHzZdSskQcwO23VElsbog/Project_Data_Analytics_Camper_Use_Case?node-id=2490-58428&t=9ZwMMifGDXUc78Wt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2490%3A58428
+The prototype can be fully watched here:
+https://www.figma.com/proto/6eHzZdSskQcwO23VElsbog/Project_Data_Analytics_Camper_Use_Case?node-id=2490-58428&t=m2fRo5IhRCuHVSNe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2490%3A58428
 
 
 
