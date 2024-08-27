@@ -7,8 +7,11 @@ The task was to elaborate the user problem and design a data (science) product f
 My solution is an app which displays all weather information and campsite ratings at a glance and sends out timely push notifications when the weather is about to change.
 Everyone can create their own travel profile to customize their trips. The travel profile can be changed at any time. 
 ![image](https://github.com/user-attachments/assets/1985c053-8432-44dd-81de-6e04156d5439)
+
 Then you can start searching for your next stop. Once you have found a suitable campground, you can save it and start navigating with one click.
 ![image](https://github.com/user-attachments/assets/08253a51-2605-4888-942b-edc004e792e3)
+
+
 If the weather deteriorates, you will be notified in time to choose an alternative campsite where the weather is better.
 ![image](https://github.com/user-attachments/assets/d2fa3ae2-883e-4322-b23a-fc6c99677050)
 
