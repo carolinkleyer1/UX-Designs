@@ -1,4 +1,4 @@
-# UX-Designs
+# University 2-week project
 This repository contains my prototype for a two-week university project in my Data Analytics class!
 
 The task was to elaborate the user problem and design a data (science) product for the following user statement:
@@ -19,7 +19,7 @@ If the weather deteriorates, you will be notified in time to choose an alternati
 
 
 The prototype can be fully watched here:
-https://www.figma.com/proto/6eHzZdSskQcwO23VElsbog/Project_Data_Analytics_Camper_Use_Case?node-id=2490-58428&t=m2fRo5IhRCuHVSNe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2490%3A58428
+
 
 
 
