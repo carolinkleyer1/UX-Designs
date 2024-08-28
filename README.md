@@ -20,6 +20,7 @@ If the weather deteriorates, you will be notified in time to choose an alternati
 
 The prototype can be fully watched here:
 
+https://github.com/user-attachments/assets/d4067d70-28c1-4bf7-a9bf-ab60929bac2e
 
 
 
