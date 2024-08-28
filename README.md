@@ -2,7 +2,6 @@
 This repository contains my prototype for a two-week university project in my Data Analytics class!
 
 The task was to create a solution to a travel user problem and design a data (science) product. The user statement is as follows:
-
 “I am a passionate camper and love touring the world in my VW bus. I prefer traveling in good weather, so I often choose my destinations based on the weather conditions. What becomes cumbersome is planning the route according to the weather, as I might have to replan frequently. Each time, I have to search for new campsites with good Google reviews what is quite time-consuming.”
 
 My solution is an app that displays all weather information and campsite ratings at a glance and sends out timely push notifications when the weather is about to change.
