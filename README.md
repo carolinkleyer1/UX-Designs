@@ -15,6 +15,7 @@ Then you can start searching for your next stop. Once you have found a suitable 
 
 
 If the weather deteriorates, you will be notified in time to choose an alternative campsite where the weather is better.
+
 ![image](https://github.com/user-attachments/assets/d2fa3ae2-883e-4322-b23a-fc6c99677050)
 
 
