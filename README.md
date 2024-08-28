@@ -1,10 +1,11 @@
 # Chasing Sun - University Project
 This repository contains my prototype for a two-week university project in my Data Analytics class!
 
-The task was to elaborate the user problem and design a data (science) product for the following user statement:
-“I am a passionate camper and love touring the world in my VW bus. I prefer traveling in good weather, so I often choose my destinations based on the weather conditions. What becomes cumbersome is planning the route according to the weather, as I might have to re re-plan frequently. Each time, I have to search for new campsites with good Google reviews what is quite time time-consuming.”
+The task was to create a solution to a travel user problem and design a data (science) product. The user statement is as follows:
 
-My solution is an app which displays all weather information and campsite ratings at a glance and sends out timely push notifications when the weather is about to change.
+“I am a passionate camper and love touring the world in my VW bus. I prefer traveling in good weather, so I often choose my destinations based on the weather conditions. What becomes cumbersome is planning the route according to the weather, as I might have to replan frequently. Each time, I have to search for new campsites with good Google reviews what is quite time-consuming.”
+
+My solution is an app that displays all weather information and campsite ratings at a glance and sends out timely push notifications when the weather is about to change.
 Everyone can create their own travel profile to customize their trips. The travel profile can be changed at any time. 
 
 ![image](https://github.com/user-attachments/assets/1985c053-8432-44dd-81de-6e04156d5439)
