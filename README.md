@@ -1,4 +1,4 @@
-# University 2-week project
+# Chasing Sun - University Project
 This repository contains my prototype for a two-week university project in my Data Analytics class!
 
 The task was to elaborate the user problem and design a data (science) product for the following user statement:
